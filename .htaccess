@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteRule ^(.*).jpg $1.html
+
+#RewriteRule ^index.jpg?$ index.html
+#RewriteRule ^A.jpg?$ A.html
+#RewriteRule ^C.jpg?$ C.html
